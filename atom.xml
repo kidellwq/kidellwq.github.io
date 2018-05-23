@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kidell的博客</title>
+  
+  <subtitle>夫君子之行，静以修身，俭以养德，非淡泊无以明志，非宁静无以致远。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.kzimo.com/"/>
+  <updated>2018-05-23T02:53:09.944Z</updated>
+  <id>http://blog.kzimo.com/</id>
+  
+  <author>
+    <name>kidell</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.kzimo.com/2018/05/23/hello-world/"/>
+    <id>http://blog.kzimo.com/2018/05/23/hello-world/</id>
+    <published>2018-05-23T02:53:09.944Z</published>
+    <updated>2018-05-23T02:53:09.944Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>这是我的第一篇博客</title>
+    <link href="http://blog.kzimo.com/2016/05/23/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://blog.kzimo.com/2016/05/23/这是我的第一篇博客/</id>
+    <published>2016-05-23T03:11:45.000Z</published>
+    <updated>2018-05-23T03:51:31.174Z</updated>
+    
+    <content type="html"><![CDATA[<p>1、</p><p>早上，我还在睡梦中，被管家给叫醒，十几个厨师忙活了一上午，把早餐给我端了上来。吃过早饭，保安说有人要来探望我，我点头，为了安全，看望我的人，只能隔着防弹玻璃。看我的人，原来是我的小弟，他看到我今天优越的生活激动的流泪，小声的对我说：大哥，你在里面好好表现，还有两年就可以出狱了</p><p>2、<br><a id="more"></a><br>“老公，情人节，我们……”我深情的说道。老公不屑的说道：“一天天过什么节！你看看我兜比脸都干净，拿什么过节！我一开工资就都给你了，拿什么过节……”听完老公的话，把我气坏了！愤怒的冲墙踢了一脚！结果一块砖头被踢了进去，里面老公攒了五年的私房钱瞬间被没收……知道惹女人生气有多可怕了吧……</p><p>3、</p><p>我一朋友在网吧上网，买了一瓶饮料，一看盖子，再来一瓶，准备喝完再换的，岂料，走的时候忘记拿了，掉头回来，瓶子已经被网管收走了。很不甘心，喊来网管，网管带着他来到杂物间，指着堆成山的空瓶子，说，你自己找吧。这货楞是在里面找了一个小时，出来的时候，口袋里塞满了瓶盖，都是再来一瓶……服了！</p><p>4、</p><p>某男暗恋某女神。今天他上公厕出来准备洗手，看到她也在洗手。于是准备上前搭讪两句，从她背后经过的时候，她转过头来冲他一笑。某男一时情急，竟不知道说什么好。脱口而出：“你也尿手上了？”</p><p>5、</p><p>把我哥拽我屋里说“借我五百块钱。”我哥摇着头说真没有，我说借我五百，发工资了还你六百。我哥小声说“说话算数。”我用力点点头，然后我哥出去了，不一会儿拿着一千五进来递给我说“记得还我一千八，千万别让你嫂子知道了……”嫂子从衣柜里跳出来接过钱后，数了600递给我……“拿去花，不用还！！”我哥好多天了也不理我</p><p>6、</p><p>今天去相亲，对方是个美女！去了之后，美女点个3个菜，分别是:田螺，泥鳅，龙虾！我一看就懂了，二话没说5分钟没用牙签就把一盘田螺吃完了！我看到美女微微的点了头说:再吃点泥鳅吧？我摆摆手:不用了，我不能再补了…女神露出了满意的笑容！然后我就叫美女尝尝龙虾，美女吃了一口说很好吃，于是我又点了一盘龙虾…这时美女大笑说:好了，就是你了，什么时候领证？</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;1、&lt;/p&gt;
+&lt;p&gt;早上，我还在睡梦中，被管家给叫醒，十几个厨师忙活了一上午，把早餐给我端了上来。吃过早饭，保安说有人要来探望我，我点头，为了安全，看望我的人，只能隔着防弹玻璃。看我的人，原来是我的小弟，他看到我今天优越的生活激动的流泪，小声的对我说：大哥，你在里面好好表现，还有两年就可以出狱了&lt;/p&gt;
+&lt;p&gt;2、&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://blog.kzimo.com/categories/Testing/"/>
+    
+    
+      <category term="blog" scheme="http://blog.kzimo.com/tags/blog/"/>
+    
+      <category term="尝试" scheme="http://blog.kzimo.com/tags/%E5%B0%9D%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
