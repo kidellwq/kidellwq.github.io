@@ -323,7 +323,7 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2016/05/23/cjhr5v6bx0002kcv2cgl6uwn9/" itemprop="url">
+            <a class="post-title-link" href="/2016/05/23/cjhrcdaht0000ocv2qbh18yrj/" itemprop="url">
               
                 <span itemprop="name">这是我的第一篇博客</span>
               
@@ -641,6 +641,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: true,
+        notify: true,
+        appId: 'fdsRYpqUMwPgGWh2tgxDqf2b-gzGzoHsz',
+        appKey: '19yiC8q9yjD73vFk0mD0HrRg',
+        placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
